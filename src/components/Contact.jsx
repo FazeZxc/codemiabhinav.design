@@ -11,9 +11,9 @@ export const Contact = () => {
       <div className="flex flex-row justify-center pt-10 gap-[100px] leading-[-75px] font-normal text-xl text-right">
         <div>SOCIALS</div>
         <div className="flex flex-col">
-          <a href="https://www.linkedin.com/in/abhinavmsn/" className="hover:underline">LINKEDIN</a>
-          <a href="https://www.instagram.com/abhinavmxn/" className="hover:underline">INSTAGRAM</a>
-          <a href="https://github.com/FazeZxc" className="hover:underline">GITHUB</a>
+          <a href="https://www.linkedin.com/in/abhinavmsn/" target="_blank" className="hover:underline">LINKEDIN</a>
+          <a href="https://www.instagram.com/abhinavmxn/" target="_blank"  className="hover:underline">INSTAGRAM</a>
+          <a href="https://github.com/FazeZxc" target="_blank"  className="hover:underline">GITHUB</a>
         </div>
       </div>
       <div className="flex flex-row justify-center pt-10 gap-[100px] leading-[-75px] font-normal text-xl text-right">
