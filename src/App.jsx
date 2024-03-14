@@ -6,6 +6,7 @@ import About from "./components/about";
 import Expertise from "./components/expertise";
 import{ Footer} from "./components/footer";
 import "./App.css"
+import { Contact } from "./components/Contact";
 
 function App() {
   // const [verticalScrollPx, setVerticalScrollPx] = useState(0);
@@ -42,7 +43,8 @@ function App() {
       <Hero />
       <About />
       <Expertise/>
-      <Footer />
+      <Contact />
+      {/* <Footer /> */}
     </div>
   );
 }
