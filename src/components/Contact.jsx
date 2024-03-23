@@ -1,6 +1,6 @@
 export const Contact = () => {
   return (
-    <div className="bg-[#FB6F3E] h-screen w-full z-10">
+    <div className="bg-[#FB6F3E] h-screen w-full z-10" id="contact">
       <h1 className="pt-24 text-[90px] leading-[85px] font-extrabold">
         HAVE A PROJECT IN MIND?
         <br />

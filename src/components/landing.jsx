@@ -1,4 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
+
 function Landing() {
   return (
     <div id="landing" className="landing">
@@ -7,7 +8,7 @@ function Landing() {
         <div id="nav-controls" className="nav-controls text-contact">
           {/* <a href="#">Work</a>
           <a href="#">How</a> */}
-          <button id="talk"><a href="#footer">Lets talk.</a></button>
+          <button id="talk"><a href="#contact">Lets talk.</a></button>
         </div>
       </nav>
 
