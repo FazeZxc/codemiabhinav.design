@@ -4,13 +4,14 @@ const About = () => {
     <div className="about">
       <div className="wrapper">
         <div className="text-wrapper">
-          <h3>a brief intro, who am i?</h3>
+          <h3 className="text-contact">a brief intro, who am i?</h3>
           <h5>
-            Hello there!  I'm <span style={{color: "lime"}}>Abhinav Mishra</span> , an ambitious and creative Frontend
-            Developer, hailing from the culturally rich Sultanpur, Uttar
-            Pradesh. I am passionate about blending technology with creativity,
-            and my journey as a Full Stack Developer and Designer reflects this
-            enthusiasm.
+            Hello there! I'm{" "}
+            <span className="text-contact">Abhinav Mishra</span> , an ambitious
+            and creative Frontend Developer, hailing from the culturally rich
+            Sultanpur, Uttar Pradesh. I am passionate about blending technology
+            with creativity, and my journey as a Full Stack Developer and
+            Designer reflects this enthusiasm.
           </h5>
 
           <h5>

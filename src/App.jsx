@@ -41,7 +41,7 @@ function App() {
   return (
     <div className="app" style={{ backgroundColor: "black" }}>
       <Landing />
-      <Hero />
+      {/* <Hero /> */}
       <BlogMarket></BlogMarket>
       <About />
       <Expertise/>
