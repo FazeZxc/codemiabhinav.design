@@ -6,7 +6,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        "contact" : "FB6F3E",
+        "contact" : "#FB6F3E",
       },
     },
   },

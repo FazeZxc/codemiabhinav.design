@@ -7,6 +7,7 @@ import Expertise from "./components/expertise";
 import{ Footer} from "./components/footer";
 import "./App.css"
 import { Contact } from "./components/Contact";
+import { BlogMarket } from "./components/blogmarket";
 
 function App() {
   // const [verticalScrollPx, setVerticalScrollPx] = useState(0);
@@ -41,6 +42,7 @@ function App() {
     <div className="app" style={{ backgroundColor: "black" }}>
       <Landing />
       <Hero />
+      <BlogMarket></BlogMarket>
       <About />
       <Expertise/>
       <Contact />

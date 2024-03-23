@@ -9,7 +9,7 @@ const About = () => {
             Hello there!  I'm <span style={{color: "lime"}}>Abhinav Mishra</span> , an ambitious and creative Frontend
             Developer, hailing from the culturally rich Sultanpur, Uttar
             Pradesh. I am passionate about blending technology with creativity,
-            and my journey as a Frontend Developer and Designer reflects this
+            and my journey as a Full Stack Developer and Designer reflects this
             enthusiasm.
           </h5>
 

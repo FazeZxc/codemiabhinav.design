@@ -260,7 +260,7 @@ nav{
 .heading{
     font-size: 30px;
     font-family: "Fjalla One";
-    color: white;
+    color: #FB6F3E;
 }
 
 .par{
@@ -376,3 +376,11 @@ nav{
     text-decoration: underline;
 }
 
+
+.blog-market{
+    background-image: url(assets/banner-image-1.jpg);
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-color: #FBFBFB;
+}   
