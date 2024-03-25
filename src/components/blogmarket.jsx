@@ -13,7 +13,7 @@ export const BlogMarket = () => {
           In My Blogs i talk about all things programming !!
         </p>
         <button className="bg-contact p-4 text-white font-bold text-xl rounded-xl w-fit" onClick={()=>{
-          window.location.href="https://medium.com/@iamabhinav76"
+          window.location.href="https://dailysitemiabhinavdesign.super.site/"
         }}>
           START READING
         </button>
