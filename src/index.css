@@ -1,3 +1,16 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Borel&family=PT+Sans&family=Playfair+Display&family=Rubik+Doodle+Shadow&display=swap"); /* Rubik Doodle Shadow */
+
+@import url("https://fonts.googleapis.com/css2?family=Borel&family=Fjalla+One&family=PT+Sans&family=Playfair+Display&family=Rubik+Doodle+Shadow&display=swap"); /* Fjalla One */
+
+@import url("https://fonts.googleapis.com/css2?family=Titan+One&display=swap"); /* Titan One */
+
+@import url("https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi&display=swap"); /*Tiro Devanagari Hindi*/
+
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap"); /* Satisfy */
+
+@import url("https://fonts.googleapis.com/css2?family=Signika:wght@500&display=swap"); /* Signika */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
