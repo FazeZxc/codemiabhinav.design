@@ -12,7 +12,7 @@ export const BlogMarket = () => {
           <br />
           In My Blogs i talk about all things programming !!
         </p>
-        <button className="bg-contact p-4 text-white font-bold text-xl rounded-xl w-fit" onClick={()=>{
+        <button className="bg-contact p-4 text-white font-bold text-xl rounded-xl w-fit hover:bg-black hover:text-contact" onClick={()=>{
           window.location.href="https://dailysitemiabhinavdesign.super.site/"
         }}>
           START READING
